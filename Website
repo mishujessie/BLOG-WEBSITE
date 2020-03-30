@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> DEAR, Honeybook</title>
+    <link rel="icon" href="BLOG/IMG/Honeybook Logo.jpg">
+    <link rel="stylesheet" type="text/css" href="BLOG-WEBSITE-/WEBSTYLE.css">
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand&display=swap" 
+        rel="stylesheet">
+</head>
+<body>
+    <!--header element-->
+    <header>
+        <img src="IMG/Honeybook Logo.jpg">
+        <h1>Welcome to Honeybook, a place full of inspiration!</h1>
+    </header>
+
+    <!--main element-->
+    <main>
+        <h2>WHAT IS Honeybook?</h2>
+        <p>A personal blog based on Instagram from a 18 year old girl from munich, germany.
+        You are here to look for inspiration to live a more fullfilling, healthy and cautious life,
+        while caring for ourselfs and the enviroment.
+        I share posts about self-love, mental health, productivity, creativity and sustainablility.
+        SO GO HAVE A LOOK! </p>
+
+        <img src="IMG/camera girl.jpg">
+        
+        <h3>VALUES</h3>
+        <p>
+        <ol>
+          <li>EMPOWERMENT</li>
+          <li>SUSTAINABILITY</li>
+          <li>AWARENESS</li>
+          <li>PURPOSE</li>
+        </ol>
+        </p>
+       
+        <img src="IMG/sunflower.jpg" height="500px">
+
+        <h4>GOALS</h4>
+        <p> 
+            <li> Grow as a Supporting Community</li>
+            <li> Appeal for self-love</li>
+            <li> Insire you to live a fulfilled life</li>
+            <li> Share tips and tricks</li>
+        </p>
+
+        <img src="IMG/little steps.jpg" height="500px" >
+
+        <h5>recent Posts</h5>
+        <p>
+            <li>how to gain respect from others <a target="_blank" href="https://www.instagram.com/p/B-FmEDOip7M/"> here </a> </li>
+            <li>10 affirmation for selflove  <a target="_blank" href="https://www.instagram.com/p/B97SevbKyt5/"> here </a></li>
+            <li>things to be optimistic about<a target="_blank" href="https://www.instagram.com/p/B-KemSNCkOa/"> here </a></li>
+            <li>true thoughts about this situation<a target="_blank" href="https://www.instagram.com/p/B-SkulZi-AX/">here</a></li>
+        </p>
+
+    </main>
+    <!--footer element-->
+    <footer> 
+    <p>Follow me on Instagram! @dearhoneybook <a target="_blank" href="https:instagram.com/dearhoneybook">Click here</a>
+        or E-mail me: dearhoneybook@gmail.com
+        &copy;Honeybook</p>
+    </footer>
+</body>
+
+</html>
